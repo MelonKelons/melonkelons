@@ -1,7 +1,6 @@
 # 🍈 Welcome to MelonKelons' GitHub 🍈  
 *Where code meets creativity!* 🚀  
 
-![Melon Banner](https://source.unsplash.com/1600x400/?cyberpunk,tech,futuristic)  
 
 ## 👋 Hey, I'm MelonKelons!  
 💡 Passionate about **coding**, **problem-solving**, and **bringing ideas to life**.  
@@ -11,7 +10,7 @@
 ---
 
 ## ⚡ Tech Stack  
-🚀 **Languages:** Python | JavaScript | [Your Languages]  
+🚀 **Languages:** Python | JavaScript 
 🖥️ **Web Dev:** React | Node.js | TailwindCSS  
 🛠️ **Tools & Frameworks:** Git | Docker | VS Code  
 📦 **Databases:** MongoDB | PostgreSQL  
