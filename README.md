@@ -22,7 +22,6 @@
 
 ![MelonKelons' GitHub Stats](https://github-readme-stats.vercel.app/api?username=melonkelons&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonkelons&layout=compact&theme=radical)  
 
 </div>  
 
